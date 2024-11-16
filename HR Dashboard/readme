@@ -1,6 +1,9 @@
-Introduction This project is a Power BI dashboard designed to visualize and analyze HR data of hypothetical company Awesome Chocolates.
-The dashboard provides insights through interactive visualizations, helping users make data-driven decisions.
+Awesome Chocolates - HR Dashboard (Portfolio Project)
+Awesome Chocolates - HR Dashboard (Portfolio Project)
+HR dashboard I created as part of my portfolio project! Designed in Power BI, it provides comprehensive insights into workforce metrics, including:
+📊 Headcount, average salary, and leave trends
+📈 Salary breakdown by qualification
+📌 Gender and age distribution of staff
+📆 Hiring trends over the years
 
-Requirements Power BI Desktop (latest version) Access to the relevant data sources (Excel files attached)
-
-Contact For any questions or suggestions, please reach out to Deepak @d.khot2210@gmail.com
+This project demonstrates my ability to turn raw data into actionable insights using Power BI’s interactive visualizations. I’d love to hear your feedback!
