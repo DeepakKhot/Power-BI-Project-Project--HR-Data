@@ -1,4 +1,5 @@
 **Awesome Chocolates - Sales Dashboard**
+
 Power BI dashboard I developed as part of my portfolio! It provides detailed insights into sales and logistics performance for Awesome Chocolates. Key highlights include:
 📈 Total sales, profit, shipments, and costs overview
 📊 Monthly sales trends and shipment analysis
