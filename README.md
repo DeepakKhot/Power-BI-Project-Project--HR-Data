@@ -1,3 +1,5 @@
+**Project I**
+
 **Awesome Chocolates - HR Dashboard (Portfolio Project)**
 HR dashboard I created as part of my portfolio project! Designed in Power BI, it provides comprehensive insights into workforce metrics, including:
 📊 Headcount, average salary, and leave trends
@@ -11,3 +13,4 @@ See the full dashboard here - [App PowerBI Link](https://app.powerbi.com/view?r=
 
 This project demonstrates my ability to turn raw data into actionable insights using Power BI’s interactive visualizations. I’d love to hear your feedback!
 
+**Project II**
